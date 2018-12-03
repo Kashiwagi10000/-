@@ -19,5 +19,9 @@
     </nav>
 </div>
 </html>
-<p>ありがとうございました。また起こしくださいませ</p>
+<div class="text-center">
+<h1>ありがとうございました。また起こしくださいませ</h1>
+    <img src="/img/cut10.png">
+
+</div>
 

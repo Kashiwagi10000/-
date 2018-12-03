@@ -29,11 +29,13 @@
 <div class="text-center"><h1>カート</h1></div>
 <?php foreach($cartItems as $item): ?>
     <div style="text-align:center" class="yoko">
+        <div class="container">
     <?=$item->name?>
     <br>
     価格：<?=$item->price?>円
 <br>
 <br>
+        </div>
     </div>
 <?php endforeach; ?>
 <div style="text-align:center">

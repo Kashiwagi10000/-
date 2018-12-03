@@ -17,10 +17,12 @@
 <div class="example"><title>そこらへんにあるパンや</title>
 <h1>そこらへんにあるパンや</h1>
 <h2>全ての商品カロリー0！</h2>
+    <div class="search">
     <form action="/" method="GET">
         <input type="text" name="searchkey" value="<?=$searchKey?>">
-        <input type="submit" value="検索">
+      <input type="submit" value="検索">
     </form>
+    </div>
 </div>
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />

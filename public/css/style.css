@@ -193,3 +193,7 @@ h1, h2, h3, h4, h5, h6 {
 #sbtn:hover{
     color:#666;/*検索ボタンマウスオーバー時のフォントカラー*/
 }
+
+.searchbutton{
+    background-color: #00bfbf;
+}
